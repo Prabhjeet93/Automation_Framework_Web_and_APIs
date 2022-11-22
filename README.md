@@ -1,6 +1,10 @@
 ## Automation_Framework_Web_and-APIs - In Progress
 
 
+**This repository contains automation framework for the Web and APIs **
+
+Web Automation 
+
 Selenium + Java + html report + Cucumber BDD
 
 run with threads
@@ -8,12 +12,11 @@ run on all browsers chrome, firefox and also headless browser.
 report send in mail
 add security test cases/tools
 
-Compare UI data with API response.
+**Compare UI data with API response.**
 
 Rest_Assured_Framework 
 
 
-##This repository contains automation framework for the APIs.
 
 This Framework is based on Rest Assured + java/Python + tkinter UI + report
 Framework will run with threads.
