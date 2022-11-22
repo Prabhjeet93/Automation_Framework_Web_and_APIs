@@ -1,9 +1,9 @@
 ## Automation_Framework_Web_and-APIs - In Progress
 
 
-**This repository contains automation framework for the Web and APIs **
+**This repository contains automation framework for the Web and APIs**
 
-Web Automation 
+**Web Automation **
 
 Selenium + Java + html report + Cucumber BDD
 
@@ -14,7 +14,7 @@ add security test cases/tools
 
 **Compare UI data with API response.**
 
-Rest_Assured_Framework 
+**Rest_Assured_Framework **
 
 
 
