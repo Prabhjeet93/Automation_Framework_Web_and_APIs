@@ -24,3 +24,7 @@ Test scripts includes -> with and without headers, with and without paramters, b
 Methods covered -> get, post, put, delete
 Report will be sent in the mail.
 I will be adding some security test scripts/tools in this fraework.
+
+
+Try to implement AI in the automation. 
+ex- check openAI website.
