@@ -12,7 +12,6 @@ password = #passwd
 We can have different file
 config.properies file which will be containing the data used in the framework.
 
-package learnauto;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

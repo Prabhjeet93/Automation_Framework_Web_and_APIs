@@ -9,7 +9,6 @@ We can genearte our own report and modify it and add  to the test suite.
 
 
 
-package learnauto;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
